@@ -1,5 +1,5 @@
 # Posinstall_Debian_Thinkpad_intel_T14_gen1_KDE
-Script para instalação de pacotes KDE em notebooks Thinkpad T14 Gen1 
+Script para instalação de pacotes KDE em notebooks Thinkpad T14 Gen1 com btrfs
 
 # 🚀 Debian KDE Post-Install Script
 
@@ -36,8 +36,8 @@ Clone este repositório e execute o script com permissões de administrador:
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git
-cd NOME-DO-REPOSITORIO
+git clone https://github.com/mottasystem/debian_kde_btrfs.git
+cd debian_kde_btrfs
 
 # 2. Dê permissão de execução ao script
 chmod +x debian_after_install_kde_2.0_2.sh
